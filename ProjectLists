@@ -17,6 +17,9 @@ Project3 -> Re Architecture Web Application on Aws Cloud
 			1-> RDS, ElasticCache, Amazon MQ
 			2-> Cloud Front, Route53
 			3-> ELB, EFS, S3, SNS + EC2
+
+<--- Consider Project4 for resume --->
+
 Project4 -> Continuous Integration of Java Project
 Learn Automated Project Release Management
 			Services used:
@@ -35,6 +38,9 @@ Project5 -> Continuous Integration On Aws Cloud
 			4.AWS CloudArtifact
 			5.AWS CloudWatch
 			6.S3 Bucket
+
+<--- Consider Project6 for resume --->
+
 Project6 -> Continuous Delivery Of Java Project
 Automatic Code Delivery Pipeline with Software Testing
 			Services Used:
@@ -50,6 +56,9 @@ Automatic Code Delivery Pipeline with Software Testing
 			10.RabbitMq
 			11.MySql
 			12.Memcached
+
+<--- Consider Project7 for resume --->
+
 Project7 -> Continuous Delivery on AWS Cloud
 Automatic code delivery pipeline using AWS services
 			Services used:
@@ -94,6 +103,9 @@ Integration Of Ci With Ansible for continuous delivery
 			9.Mysql
 			10.Selenium
 			11.SonarQube
+
+<--- Consider Project11 for resume --->
+
 Project11 -> Continuous Delivery with jenkins and Aws Services
 Integrate CI Server with AWS Services for CI/CD pipeline
 			Services Used:
@@ -115,6 +127,9 @@ Learn How to containerize an existing Project. Local Development Workflow
 			3.Docker Hub
 			4.Dockerfile
 			5.Docker Compose
+
+<--- Consider Project13 for resume --->
+
 Project13 -> Kubernetes For Production Containers
 Setup Production grade Kubernetest Cluster to host your apps
 			Services used:
@@ -124,6 +139,9 @@ Setup Production grade Kubernetest Cluster to host your apps
 			4.AWS
 			5.Minikube
 			6.Kubeadm
+
+<--- Consider Project14 for resume --->
+
 Project14 -> Java Project Deployment on Kubernetes
 Setup Webapplication on Kubernetes cluster
 			Services used:

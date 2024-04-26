@@ -1,0 +1,185 @@
+Project1 -> Automated Setup Of 3 Tier Application Locally with the use of Vagrant
+            Services used:
+			1-> Mariadb
+            2-> Rabbit mq
+			3->Memecach
+			4->Apache Tomcat
+			5->Nginx Server 
+Project2 -> Lift & Shift Web Application on AWS Cloud
+            Services used:
+            1-> EC2
+            2-> AutoScaling
+            3-> Load Balancers
+            4-> CloudWatch Alarms
+            5-> Route 53
+Project3 -> Re Architecture Web Application on Aws Cloud
+			Services used:
+			1-> RDS, ElasticCache, Amazon MQ
+			2-> Cloud Front, Route53
+			3-> ELB, EFS, S3, SNS + EC2
+Project4 -> Continuous Integration of Java Project
+Learn Automated Project Release Management
+			Services used:
+			1.Github
+			2.Maven
+			3.Sonatype
+			4.Nexus
+			5.Jenkins
+			6.Slack
+			7.Sonarqube
+Project5 -> Continuous Integration On Aws Cloud
+			Services Used:
+			1.AWS Pipeline
+			2.AWS CodeCommit
+			3.AWS CodeBuild
+			4.AWS CloudArtifact
+			5.AWS CloudWatch
+			6.S3 Bucket
+Project6 -> Continuous Delivery Of Java Project
+Automatic Code Delivery Pipeline with Software Testing
+			Services Used:
+			1.Jenkins
+			2.Github
+			3.Maven
+			4.Nexus
+			5.Sonatype
+			6.ApacheTomcat'
+			7.RabbitMq
+			8.Selenium
+			9.Sonarqube
+			10.RabbitMq
+			11.MySql
+			12.Memcached
+Project7 -> Continuous Delivery on AWS Cloud
+Automatic code delivery pipeline using AWS services
+			Services used:
+			1.AWS codepipeline
+			2.CodeCommit
+			3.AWS CodeDeploy
+			4.AWS CloudArtifact
+			5.SonarCloud
+			6.SNS
+			7.AWS CodeBuild
+			8.ElasticBeanstalk
+			9.Amazon RDS
+Project8 -> Project Configuration Management with Ansible
+Ansible to automate/manage configs of your entire project.
+			Services used:
+			1.Ansible 
+			2.Nginx
+			3.Apache Tomcat
+			4.Memcached
+			5.RabbitMq
+			6.MySql
+Project9 -> Ansible For Aws Cloud Automation
+Setup you cloud stack for your project using Ansible
+			Services Used:
+			1.Ansible
+			2.VPC
+			3.Internet gateway
+			4.Route table
+			5.Network Acl
+			6.Security Group
+Project10 -> Continuous Delivery With Jenkins & Ansible
+Integration Of Ci With Ansible for continuous delivery
+			Services Used:
+			1. Ansible
+			2.Jenkins
+			3.Maven
+			4.Nexus
+			5.Sonatype
+			6.Apache Tomcat
+			7.Memcached
+			8.RabbitMQ
+			9.Mysql
+			10.Selenium
+			11.SonarQube
+Project11 -> Continuous Delivery with jenkins and Aws Services
+Integrate CI Server with AWS Services for CI/CD pipeline
+			Services Used:
+			1.Jenkins
+			2.Github
+			3.Maven
+			4.SonarQube
+			5.Sonarqube
+			6.Selenium
+			7.Aws Beanstalk
+			8.AWS RDS
+			9.Amazon MQ
+			10.Amazon ElasticCache
+Project12 -> Containerization Of Java Web Project
+Learn How to containerize an existing Project. Local Development Workflow
+			Services used:
+			1.Github
+			2.Docker
+			3.Docker Hub
+			4.Dockerfile
+			5.Docker Compose
+Project13 -> Kubernetes For Production Containers
+Setup Production grade Kubernetest Cluster to host your apps
+			Services used:
+			1.Kubernetes
+			2.Kops
+			3.Kubernetes
+			4.AWS
+			5.Minikube
+			6.Kubeadm
+Project14 -> Java Project Deployment on Kubernetes
+Setup Webapplication on Kubernetes cluster
+			Services used:
+			1.DockerHub
+			2.Ingress
+			3.Pod
+			4.Deployment
+			5.ConfigMap
+			6.Secret 
+			7.PersistentVolume
+			8.Kops
+			9.Kubernetes
+			10.AWS
+Project15 -> CI/Cd for containers
+Continuous Deliver Docker changes to kubernetes Pods
+			Services used:
+			1.Jenkins
+			2.Github
+			3.Maven
+			4.Sonatype
+			5.Nexus
+			6.Docker
+			7.Kubernetes
+			8.Helm
+			9.Sonarcube
+			10.Docker
+			11.Selenium
+			12.Slack
+Project16 -> AWS security implememtation 
+implement security and its best practices on AWS cloud
+			Services used:
+			1.IAM
+			2.Detective Controls
+			3.Infrastructure protection
+			4.Data Protection
+			5.Incident Response
+<------- AWS client Security Responsibilities------->
+Project17 -> CloudFormation to setup entire cloud Stack
+Automate AWS Cloud Infra
+			Services Used:
+			1.CloudFormation
+			2.Amazon CloudFront
+			3.Amazon ElasticCache
+			4.Amazon MQ
+			5.RDS DB Instance
+			6.Amazon EC2
+			7.Amazon Route 53
+			8.Amazon Elastic Block Storage
+Project18 -> Terraform to setup cloud stack
+Automate AWS Cloud infra
+			Services Used:
+			1.Terraform
+			2.Amazon CloudFront
+			3.Amazon ElastiCache
+			4.Amazon MQ
+			5.RDS DB Instance	
+			6.Amazon Ec2
+			7.Amazon Route 53
+			8.Amazon Elastic Block Storage

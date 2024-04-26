@@ -190,6 +190,7 @@ Automate AWS Cloud Infra
 			6.Amazon EC2
 			7.Amazon Route 53
 			8.Amazon Elastic Block Storage
+			9.AmazonALB
 Project18 -> Terraform to setup cloud stack
 Automate AWS Cloud infra
 			Services Used:
@@ -201,3 +202,4 @@ Automate AWS Cloud infra
 			6.Amazon Ec2
 			7.Amazon Route 53
 			8.Amazon Elastic Block Storage
+			9.AmzonALB
